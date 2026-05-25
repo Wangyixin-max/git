@@ -1,0 +1,51 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+out/
+target/
+bin/
+obj/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Environment and secret files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Archives and large local artifacts
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
